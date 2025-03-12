@@ -5,7 +5,7 @@ La mayoria de mis errores por lo que noto al recopilarlos, se trata de muchos co
 
 | Principio | Error |
 | --- | --- |
-| Errores ortográficos | https://github.com/alecvz22/tareas-con-errores/blob/67ab16007f507160607a9b5411c8d94624f76f9d/impuestos%20(2).py#L5 |
+| Errores ortográficos | [Link](https://github.com/alecvz22/tareas-con-errores/blob/67ab16007f507160607a9b5411c8d94624f76f9d/impuestos%20(2).py#L5) |
 | Mal uso de condicionales | https://github.com/alecvz22/tareas-con-errores/blob/67ab16007f507160607a9b5411c8d94624f76f9d/impuestos%20(2).py#L10|
 | No muestra la actualizacion del saldo total ya que falta la suma de las cuentas despues de las transacciones | https://github.com/alecvz22/tareas-con-errores/blob/67ab16007f507160607a9b5411c8d94624f76f9d/class%20Banco_.py#L62|
 | Comentarios innecesarios 	|  https://github.com/alecvz22/tareas-con-errores/blob/67ab16007f507160607a9b5411c8d94624f76f9d/class%20Banco_.py#L42 |
